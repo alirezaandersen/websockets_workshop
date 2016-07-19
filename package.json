@@ -1,0 +1,20 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "Websockets Workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "Mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezaandersen/websockets_workshop.git"
+  },
+  "author": "Ali Andersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alirezaandersen/websockets_workshop/issues"
+  },
+  "homepage": "https://github.com/alirezaandersen/websockets_workshop#readme"
+}
